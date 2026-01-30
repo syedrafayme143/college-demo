@@ -1,3 +1,2 @@
 # college-demo
-This is my first Git Repository
-<br> Author ~ Syed Rafay Ali
+This is my first Git Repository<br> Author ~ Syed Rafay Ali
